@@ -3,8 +3,4 @@ permalink: /about/
 title: "About"
 ---
 
-Test edit.
-
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
-
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Hi! I’m Sahaj, the AI and product tech lead at Luminous Computing, a startup working to accelerate AI by using light to move data around computer chips faster. Before that, I graduated from Stanford at the top of my engineering class (Henry Ford II Scholar). There, I was a published researcher in the Stanford AI lab working on generative modeling, and interned with Google, where I developed tools and methods for making natural language models less biased. In my free time, I enjoy a (healthy) dose of existential angst, hiking, squash, and reading. 

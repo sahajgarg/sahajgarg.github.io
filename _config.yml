@@ -18,7 +18,6 @@ email:
 description: >- # this means to ignore newlines until "baseurl:"
   Sahaj Garg is a computer scientist with a (healthy) dose of existential dread.
   He works on deploying and democratizing AI systems.
-  # twitter_username: username
 github_username: sahajgarg
 minimal_mistakes_skin: mint
 search: true
@@ -64,9 +63,6 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://sahajgarg.github.io"
-      #    - label: "Twitter"
-      #      icon: "fab fa-fw fa-twitter-square"
-      #      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sahajgarg"
@@ -79,9 +75,6 @@ author:
 
 footer:
   links:
-    #- label: "Twitter"
-    # icon: "fab fa-fw fa-twitter-square"
-    #  url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sahajgarg"

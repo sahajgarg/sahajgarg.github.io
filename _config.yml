@@ -70,7 +70,7 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/sahajgarg"
     - label: "Scholar"
-      icon: "fab fa-fw ai-google-scholar"
+      icon: "ai ai-google-scholar"
       url: "https://scholar.google.com/citations?user=Rhj1VuwAAAAJ&hl=en"
 
 footer:
@@ -82,7 +82,7 @@ footer:
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/sahajgarg"
     - label: "Scholar"
-      icon: "fab fa-fw ai-google-scholar"
+      icon: "ai ai-google-scholar"
       url: "https://scholar.google.com/citations?user=Rhj1VuwAAAAJ&hl=en"
 
 defaults:

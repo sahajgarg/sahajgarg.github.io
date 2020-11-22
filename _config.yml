@@ -73,6 +73,12 @@ author:
       icon: "ai ai-fw ai-google-scholar-square"
       url: "https://scholar.google.com/citations?user=Rhj1VuwAAAAJ&hl=en"
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-5YQ1E751DF"
+    anonymize_ip: false # default
+
 footer:
   links:
     - label: "GitHub"

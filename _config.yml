@@ -82,7 +82,7 @@ analytics:
 comments:
   provider: "disqus"
   disqus:
-    shortname: "sahajg"
+    shortname: "sahajgarg"
 
 footer:
   links:

@@ -79,6 +79,11 @@ analytics:
     tracking_id: "G-5YQ1E751DF"
     anonymize_ip: false # default
 
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "sahajg"
+
 footer:
   links:
     - label: "GitHub"

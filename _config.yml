@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Sahaj Garg"
   avatar : "/assets/images/sahaj.jpg"
-  bio    : "Sahaj is a co-founder/CTO at Wispr, building a more natural way to interact with technology. He reflects along the journey."
+  bio    : "Sahaj is a co-founder/CTO at Wispr, building a more natural way to interact with technology. He occasionally reflects on the journey."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Sahaj Garg"
   avatar : "/assets/images/sahaj.jpg"
-  bio    : "Sahaj Garg is a computer scientist with a (healthy) dose of existential dread."
+  bio    : "Sahaj is a co-founder/CTO at Wispr, building a more natural way to interact with technology. He reflects along the journey."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

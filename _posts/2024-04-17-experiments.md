@@ -44,7 +44,7 @@ As I've come to use this tool more and more, I've started to wonder if there are
 
 Of Observational, Simulation, Thought, and Behavior experiments, the Behavior ones have been the most effective of these techniques - they've helped rewire my brain in a way that no amount of reading, simulation, or empathy can substitute. Real, lived experience is what changes how you see the world. Self-help books and other resources tell you specific experiments to run, but I've found that learning how to run experiments myself is far more effective. I look forward to the many more years of learning that it can bring! 
 
-Acknowledgements 
+**Acknowledgements**
 
 I'd like to thank my coach, David Zeitler, for teaching me how to run the *Immunity to Change* version of behavioral experiments, question my identity, and change in a persistent way. I couldn't ask for a better mentor along this journey. I'd also like to thank Tony and Terra, the facilitators of the Leaders in Tech retreat I attended, who've helped shape many of my perspectives. Finally, Shruti, my wife, and Tanay, my co-founder, have been incredible resources in giving me feedback through all my experiments and being patient with all my mistakes. 
 

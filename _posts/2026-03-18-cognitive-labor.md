@@ -7,8 +7,6 @@ tags:
   - AI
 ---
 
-# The Displacement of Cognitive Labor and What Comes After
-
 ## I. The Threshold Has Been Crossed
 
 We are past the point where the question is whether artificial intelligence will exceed human capability across most cognitive domains. It already has. The remaining question is not *if* but *when* the full implications arrive, and the "when" is measured in months and years, not decades.

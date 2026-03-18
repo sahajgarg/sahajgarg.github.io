@@ -1,0 +1,73 @@
+<svg width="100%" viewBox="0 0 680 320" xmlns="http://www.w3.org/2000/svg" style="font-family: system-ui, -apple-system, sans-serif;">
+
+  <style>
+    text.th { font-size: 14px; font-weight: 500; }
+    text.ts { font-size: 12px; }
+    @media (prefers-color-scheme: light) {
+      text.th, text.ts { fill: #2C2C2A; }
+      .coral-box { fill: #FAECE7; stroke: #993C1D; }
+      .coral-box-th { fill: #712B13; }
+      .coral-box-ts { fill: #993C1D; }
+      .purple-box { fill: #EEEDFE; stroke: #534AB7; }
+      .purple-box-th { fill: #26215C; }
+      .purple-box-ts { fill: #534AB7; }
+      .teal-box { fill: #E1F5EE; stroke: #0F6E56; }
+      .teal-box-th { fill: #085041; }
+      .teal-box-ts { fill: #0F6E56; }
+      .gray-box { fill: #F1EFE8; stroke: #5F5E5A; }
+      .gray-box-th { fill: #2C2C2A; }
+      .gray-box-ts { fill: #5F5E5A; }
+      .label { fill: #5F5E5A; }
+    }
+    @media (prefers-color-scheme: dark) {
+      text.th, text.ts { fill: #D3D1C7; }
+      .coral-box { fill: #4A1B0C; stroke: #F0997B; }
+      .coral-box-th { fill: #F5C4B3; }
+      .coral-box-ts { fill: #F0997B; }
+      .purple-box { fill: #26215C; stroke: #AFA9EC; }
+      .purple-box-th { fill: #CECBF6; }
+      .purple-box-ts { fill: #AFA9EC; }
+      .teal-box { fill: #04342C; stroke: #5DCAA5; }
+      .teal-box-th { fill: #9FE1CB; }
+      .teal-box-ts { fill: #5DCAA5; }
+      .gray-box { fill: #2C2C2A; stroke: #B4B2A9; }
+      .gray-box-th { fill: #D3D1C7; }
+      .gray-box-ts { fill: #B4B2A9; }
+      .label { fill: #B4B2A9; }
+    }
+  </style>
+
+  <!-- Title -->
+  <text class="th" x="340" y="30" text-anchor="middle">Four problems of the post-economic transition</text>
+
+  <!-- Problem 1: Social upheaval -->
+  <rect class="coral-box" x="40" y="55" width="290" height="100" rx="8" stroke-width="0.5"/>
+  <text class="th coral-box-th" x="185" y="82" text-anchor="middle" dominant-baseline="central">Social upheaval</text>
+  <text class="ts coral-box-ts" x="185" y="104" text-anchor="middle" dominant-baseline="central">Displacement of the high-status</text>
+  <text class="ts coral-box-ts" x="185" y="120" text-anchor="middle" dominant-baseline="central">knowledge-working class</text>
+
+  <!-- Problem 2: Human flourishing (highlighted) -->
+  <rect class="purple-box" x="350" y="55" width="290" height="100" rx="8" stroke-width="1.5"/>
+  <text class="th purple-box-th" x="495" y="82" text-anchor="middle" dominant-baseline="central">Human flourishing</text>
+  <text class="ts purple-box-ts" x="495" y="104" text-anchor="middle" dominant-baseline="central">Meaning, growth, and purpose</text>
+  <text class="ts purple-box-ts" x="495" y="120" text-anchor="middle" dominant-baseline="central">without economic necessity</text>
+
+  <!-- "This essay" label -->
+  <text class="ts label" x="495" y="145" text-anchor="middle" font-style="italic">↑ This essay</text>
+
+  <!-- Problem 3: Governance of scarce assets -->
+  <rect class="teal-box" x="40" y="175" width="290" height="100" rx="8" stroke-width="0.5"/>
+  <text class="th teal-box-th" x="185" y="202" text-anchor="middle" dominant-baseline="central">Governance of scarcity</text>
+  <text class="ts teal-box-ts" x="185" y="224" text-anchor="middle" dominant-baseline="central">Land, property rights, and</text>
+  <text class="ts teal-box-ts" x="185" y="240" text-anchor="middle" dominant-baseline="central">allocation of rivalrous assets</text>
+
+  <!-- Problem 4: Geopolitics -->
+  <rect class="gray-box" x="350" y="175" width="290" height="100" rx="8" stroke-width="0.5"/>
+  <text class="th gray-box-th" x="495" y="202" text-anchor="middle" dominant-baseline="central">Geopolitics</text>
+  <text class="ts gray-box-ts" x="495" y="224" text-anchor="middle" dominant-baseline="central">International power asymmetry</text>
+  <text class="ts gray-box-ts" x="495" y="240" text-anchor="middle" dominant-baseline="central">and post-trade governance</text>
+
+  <!-- Bottom note -->
+  <text class="ts label" x="340" y="305" text-anchor="middle" font-style="italic">Each addressed in a dedicated essay</text>
+
+</svg>

@@ -23,7 +23,7 @@ It also changes how I reason, write, and construct arguments. This essay is an e
 
 This is a remarkable change. I now view my intelligence as a commodity on tap. The primary skills I have left are my ability to synthesize different AI-generated perspectives into a combined whole that's better than what the AI produces on its own, my ability to judge what I like and don't like, and my ability to identify what I care about. Taste, direction, synthesis. Not raw cognitive horsepower. For someone whose whole identity was predicated on that horsepower, this is a significant transformation, and it's one that millions of knowledge workers will go through in the next few years whether they're ready for it or not.
 
-{% include figure image_path="/assets/images/ai-abundance/intelligence2.png" alt="Wait But Why's AI Intelligence over Time chart." caption="Tim Urban drew this in 2015. We're somewhere just short of Einstein now. What happens when we move slightly to the right in four to eight weeks?" %}
+{% include figure image_path="/assets/images/ai-abundance/Intelligence2.png" alt="Wait But Why's AI Intelligence over Time chart." caption="Tim Urban drew this in 2015. We're somewhere just short of Einstein now. What happens when we move slightly to the right in four to eight weeks?" %}
 
 
 ## II. Harnessing Intelligence and the Impacts on Labor
